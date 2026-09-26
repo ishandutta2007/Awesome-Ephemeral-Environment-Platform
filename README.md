@@ -76,9 +76,9 @@ The industry exhibits a **moderately to highly fragmented market structure**. Wh
 ## 🔓 Open-Source GitHub Projects
 
 > [!NOTE]
-> Open-source projects below are sorted by **GitHub Star Count** (descending) to reflect community adoption.
+> Open-source projects below are sorted by **GitHub Stars_Count** (descending) to reflect community adoption.
 
-| Project & Repository | Star Count | Description |
+| Project & Repository | Stars_Count | Description |
 | :--- | :--- | :--- |
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers) | Production-grade container orchestration system serving as the core foundation for ephemeral environment platforms. |
 | **[Terraform](https://github.com/hashicorp/terraform)** | [![Stars](https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white)](https://github.com/hashicorp/terraform/stargazers) | Declarative infrastructure-as-code tool used to provision and destroy temporary cloud infrastructure. |
@@ -175,7 +175,7 @@ To assemble a production-grade, self-hosted Ephemeral Environment Platform, engi
 
 1. Fork the repository.
 2. Add or update entries in `README.md` (following the established Markdown table formats).
-3. Ensure factual information regarding pricing, free tier limits, star counts, and company metrics.
+3. Ensure factual information regarding pricing, free tier limits, Stars_Counts, and company metrics.
 4. Submit a Pull Request with a clear description of your additions.
 
 ---
